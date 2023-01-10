@@ -1,0 +1,8 @@
+2. Write all commands from initialising to pushing your repo to github.
+
+Ans>Commands for pushing your repo to github are:
+1) git init
+2) git add .
+3) git commit -m "message"
+4) git remote add origin git@github.comXYZ(profile and repo name )
+5) git push 
