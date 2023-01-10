@@ -1,0 +1,3 @@
+How we can use ssh in github and also write command to generate ssh keys in your respestive operating system
+
+answer - Firstly we have to copy the ssh from id-rsa pub file and paste it to ssh and gpg key in github settings and command to generate the ssh key is ssh-keygen.
